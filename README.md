@@ -4,14 +4,14 @@
 <h3 align="left">
   A full stack developer based in Mumbai, Maharashtra INDIA
 </h3>
-<p align="left">Below are the languages and tools I’ve learned and used so far.</p>
+<h3 align="left">Below are the languages and tools I’ve learned and used so far.</h3>
 <br />
 
 <img
   align="right"
   alt="Coding"
   width="400"
-  src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc0NTc0NjIsIm5iZiI6MTc2NzQ1NzE2MiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAzVDE2MTkyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwZjFjNjY2ODY3MzYwNDEwNzk1ZDljZWEyMTg4YzQzYzc1ZmJjMzZlOThiY2EzOTRkYzQ3ZGFlNzIzY2FjYTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RMKrNYKpXZR7jw286JquZ9nthl7KqTNAP2oUYqNNuGE"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
 />
 
 <!-- Skills & Tools Section -->
