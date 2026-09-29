@@ -1,20 +1,17 @@
-#### Hi 👋, I'm Piyush.
-<p align="left">
-  A full-stack developer based in Mumbai, Maharashtra INDIA
+<img align="left" width="330" alt="Coding" src="pacman.gif" />
+
+### &nbsp;&nbsp;&nbsp;Hi, I'm Piyush 👋
+<p>&nbsp;&nbsp;&nbsp;&nbsp;A full-stack developer based in Mumbai, Maharshtra INDIA.</p>
+
+<p>&nbsp;&nbsp;&nbsp;
+  <a href="https://piyushh.tech/">Portfolio</a> ·
+  <a href="mailto:piyushyadav20045@gmail.com">Email</a> .
+  <a href="https://www.linkedin.com/in/piyushyadav0011/">Linkedin</a>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>Outside code: chess, series, anime, and books.</sub>
+<br clear="left"/>
 <img
-  align="left"
-  alt="Coding"
-  width="400"
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-/>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h align="left">
-  <img
     src="https://komarev.com/ghpvc/?username=piyush-20045&label=Profile%20views&color=0e75b6&style=flat"
     alt="piyushyadav"
-  />
-</p>
+/>
