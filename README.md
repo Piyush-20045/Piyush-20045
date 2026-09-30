@@ -11,7 +11,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>Outside code: chess, series, anime, and books.</sub>
 <br clear="left"/>
-<img
-    src="https://komarev.com/ghpvc/?username=piyush-20045&label=Profile%20views&color=0e75b6&style=flat"
-    alt="piyushyadav"
-/>
+<img src="https://komarev.com/ghpvc/?username=piyush-20045&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav" />
